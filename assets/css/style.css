@@ -381,7 +381,7 @@ header .navbar ul li a:hover {
   flex-direction: row;
   gap: 2rem;
   flex-wrap: wrap;
-  padding: 4rem;
+  padding: 3.5rem;
 }
 .about .row .image {
   text-align: center;
@@ -427,8 +427,8 @@ header .navbar ul li a:hover {
 .about .row .content .box-container {
   display: flex;
   flex-wrap: wrap;
-  margin-top: 2.5rem;
-  gap: 1.5rem;
+  margin-top: 2rem;
+  gap: 1rem;
   font-family: "Nunito";
   font-weight: 600;
 }
@@ -439,7 +439,7 @@ header .navbar ul li a:hover {
   color: #5b1991;
 }
 .resumebtn {
-  margin-top: 3rem;
+  margin-top: 2.5rem;
 }
 .resumebtn .btn {
   padding: 1.7rem 3rem;
