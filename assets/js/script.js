@@ -1,17 +1,13 @@
 const skillsData = {
     "skills": [
-        
         {
             "name": "ExpressJS",
             "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
         },
-        
         {
             "name": "Redux",
             "icon": "https://img.icons8.com/color/48/000000/redux.png"
         },
-        
-        
         {
             "name": "MaterialUI",
             "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
@@ -32,21 +28,10 @@ const skillsData = {
             "name": "Sass",
             "icon": "https://img.icons8.com/color/48/000000/sass.png"
         },
-        
-        
-        
-        
         {
             "name": "Kotlin",
             "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
         },
-        
-        
-        
-        
-        
-        
-        
         {
             "name": "Heroku",
             "icon": "https://img.icons8.com/color/48/000000/heroku.png"
@@ -67,7 +52,6 @@ const skillsData = {
             "name": "Git VCS",
             "icon": "https://img.icons8.com/color/48/000000/git.png"
         },
-        
         {
             "name": "WordPress",
             "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
@@ -208,7 +192,6 @@ const tools = {
             "name": "Android",
             "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
         },
-
     ]
 }
 
@@ -251,6 +234,18 @@ const cloud = {
 
 const projects = {
     "projects": [
+        {
+            "name": "NYC Soundscape",
+            "desc": "Developed an interactive sound-mapping web app using Django, AWS, and Mapbox. Enabled real-time chatrooms, audio uploads, and dynamic noise data visualizations with Redis batching and PostgreSQL for efficient filtering and analysis.",
+            "image": "aws",
+            "links": {
+              "code": "https://github.com/gcivil-nyu-org/wed-fall24-team2",
+              "icon1": "https://img.icons8.com/color/48/000000/amazon-web-services.png",
+              "icon2": "https://img.icons8.com/?size=100&id=Y9Kxy8Xl1id8&format=png&color=000000",
+              "icon3": "./assets/images/aws/opensearch.png",
+              "icon4": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+            }
+        },
         {
           "name": "EduNimbus",
           "desc": "Developed a comprehensive SaaS online learning platform using AWS services and React.js. Implemented video streaming, automated transcript extraction, quiz generation, and efficient course search to enhance the student experience.",
